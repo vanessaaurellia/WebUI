@@ -1,0 +1,25 @@
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+    background-color: #F5B700!important;
+    border-color:  #F5B700!important;
+    box-shadow: 0 0 0 .1rem #53b3cb!important;
+    color: #fff;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:  #F5B700!important;
+    border-color:  #F5B700!important;
+}
+
+::selection {
+    background: #f6f3f3!important;
+}
+
+.text-primary{
+    color: #53b3cb!important;
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+    background-color: #F5B700!important;
+}
+  
